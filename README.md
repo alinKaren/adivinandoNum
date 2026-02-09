@@ -1,3 +1,3 @@
-<h1>Juego de adivinación</h1>
-
--Estado del proyecto: En contrucción.
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
